@@ -1,0 +1,47 @@
+# 🥋 Beyaz Kuşak Katası: Hareket Sanatı
+# Görev: İmleci (cursor) hiç fare kullanmadan hedeflerin üzerine götür.
+# Kullanılacak Tuşlar: h (sol), j (aşağı), k (yukarı), l (sağ)
+
+HEDEFLER:
+
+1. [ ] Buraya gel (j ile aşağı in).
+   (Harika, şimdi l ile sağa git ->) [ ] BURADAYIM!
+
+2. Şimdi aşağı inmeye devam et.
+   .
+   .
+   .
+   [ ] HEDEF 2
+   (Şimdi k ile yukarı çık, yanlış geldin!)
+   .
+   .
+   ^
+   |
+   [ ] HEDEF 3 (Buraya çık)
+
+3. Şimdi en alta git (G tuşunu biliyorsan bas, bilmiyorsan j'ye basılı tut).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ ] SON HEDEF: Buraya geldiysen ve fareye dokunmadıysan, testi geçtin. Çıkmak için :q! yaz.
